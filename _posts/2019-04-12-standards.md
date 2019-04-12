@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /standards
 title: "Standards"
 date: 2019-04-12
 ---
