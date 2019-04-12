@@ -33,10 +33,10 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
     font-size: 1.5em;
     line-height: 1.0em;
+    color: #333;
 }
 
 ul.posts li {
