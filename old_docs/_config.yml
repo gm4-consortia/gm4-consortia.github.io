@@ -1,5 +1,0 @@
-name: The Gamemode 4 Consortia
-markdown: kramdown
-permalink: :permalink
-plugins:
-  - jekyll-sitemap
